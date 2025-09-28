@@ -1,7 +1,8 @@
 
 🌟📝 Takım Uygulaması - FLUTTER 🌟📝
  
- Bu projenin amacı, bir spor kulübünün mobil uygulamasını tasarlamak. Kullanıcılar bu mobil uygulama sayesinde tuttukları kulüple ilgili habeler, veriler, oyuncular gibi bilgilere direkt erişim yapabilecek.
+ Bu projenin amacı, bir spor kulübünün mobil uygulamasını tasarlamak. 
+ Kullanıcılar bu mobil uygulama sayesinde spor kulübüyle ilgili habeler, gelecek maçlar, oyuncular, anlık maç takibi, fikstür, anlık skorlar gibi bilgilere direkt erişim yapabilecek.
 
 
 ## 📸 Ekran Görüntüleri
